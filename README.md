@@ -1,6 +1,6 @@
 SENTINEL — Real-Time Fraud Detection System using Graph Neural Networks
 Built an end-to-end fraud detection platform leveraging GraphSAGE Graph Neural Networks (GNN) and graph-based ring detection to identify coordinated fraud networks across 50,000 synthetic financial transactions.
-Tech Stack: Python · PyTorch · FastAPI · Spring Boot (Java 25) · MySQL (AWS RDS) · Neo4j AuraDB · Streamlit · Docker
+Tech Stack: Python · PyTorch · FastAPI · Spring Boot (Java 25) · MySQL · Neo4j AuraDB · Streamlit 
 Key Contributions & Achievements:
 
 Designed and trained a GraphSAGE GNN model (AUC: 0.83) on a heterogeneous transaction graph with 50,000 nodes and 402,656 edges, incorporating user-merchant-device-IP relationships for fraud classification
